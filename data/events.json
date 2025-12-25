@@ -1,3 +1,14 @@
 [
-    
+  {
+    "eventName": "yossi",
+    "ticketsForSale": 0,
+    "username": "yossi",
+    "password": "1234"
+  },
+  {
+    "eventName": "cvcvcvc",
+    "ticketsForSale": 5,
+    "username": "yossi",
+    "password": "1234"
+  }
 ]
